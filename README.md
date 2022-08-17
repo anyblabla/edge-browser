@@ -10,6 +10,10 @@ chmod +x edge-browser.sh
 
 sudo ./edge-browser.sh
 
+# Demonstration/Démonstration
+
+https://youtu.be/xI8mLSDFxgI
+
 # Related video/Vidéo ayant un rapport
 
 https://youtu.be/-JEHxUsAWes
