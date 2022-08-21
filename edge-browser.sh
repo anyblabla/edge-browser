@@ -34,7 +34,7 @@ echo "deb [signed-by=/usr/share/keyrings/microsoft.gpg arch=amd64] https://packa
 echo "Raffraichissement dépôts"
 apt update
 #
-echo "Installation Vivaldi"
+echo "Installation de Microsoft Edge"
 apt install microsoft-edge-stable -y
 #
 echo "Source : https://docs.microsoft.com/en-us/windows-server/administration/linux-package-repository-for-microsoft-software"
