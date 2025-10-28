@@ -1,12 +1,12 @@
 # 💻 `edge-browser`
 
-## Script d'Installation Automatisée du Navigateur Microsoft Edge (Chromium)
+## Script d'installation automatisée du navigateur Microsoft Edge (Chromium)
 
 Ce script Bash permet l'installation simplifiée et automatisée du navigateur **Microsoft Edge** sur les systèmes basés sur Debian, en configurant son dépôt officiel pour assurer des mises à jour fluides.
 
 -----
 
-### 🇫🇷 Description du Projet
+### 🇫🇷 **Description du projet**
 
 Pour installer Microsoft Edge sur Linux et recevoir les mises à jour, il est nécessaire d'ajouter le dépôt Microsoft et d'importer la clé GPG. Ce script encapsule toutes ces étapes manuelles en une seule exécution, rendant l'installation rapide et sans effort pour l'utilisateur.
 
@@ -16,7 +16,7 @@ Votre script est **compatible** avec les distributions :
   * Ubuntu 22.04.x
   * Linux Mint 21.x (et les dérivés basés sur ces versions)
 
-### 🇬🇧 Project Description
+### 🇬🇧 **Project Description**
 
 This Bash script simplifies and automates the installation of the **Microsoft Edge** browser on Debian-based systems by configuring its official repository to ensure smooth updates.
 
@@ -30,14 +30,14 @@ Your script is **compatible** with the following distributions:
 
 -----
 
-### 🛠️ Installation et Utilisation / Installation and Usage
+### 🛠️ **Installation et utilisation / Installation and Usage**
 
 Suivez ces étapes pour télécharger et exécuter le script :
 
 1.  **Cloner le dépôt / Clone the repository**
 
     ```bash
-    git clone [VOTRE LIEN HTTPS DU DÉPÔT]
+    git clone [LIEN HTTPS DU DÉPÔT]
     cd edge-browser # Adaptez le nom du répertoire si nécessaire
     ```
 
@@ -53,11 +53,11 @@ Suivez ces étapes pour télécharger et exécuter le script :
     sudo ./edge-browser.sh
     ```
 
-    Le script configurera le dépôt, importera la clé d'authentification et installera Microsoft Edge.
+Le script configurera le dépôt, importera la clé d'authentification et installera Microsoft Edge.
 
 -----
 
-### 🎥 Démonstrations et Vidéos Connexes
+### 🎥 **Démonstrations et vidéos connexes**
 
 Consultez les vidéos ci-dessous pour une démonstration du script et un contexte détaillé sur l'installation du navigateur.
 
@@ -68,13 +68,14 @@ Consultez les vidéos ci-dessous pour une démonstration du script et un context
 
 -----
 
-### 📚 Source Officielle
+### 📚 **Source officielle**
 
 Ce script est basé sur la méthode recommandée par Microsoft pour la gestion des paquets Linux :
 
   * [Linux Package Repository for Microsoft Software](https://docs.microsoft.com/en-us/windows-server/administration/linux-package-repository-for-microsoft-software)
 
-### 📝 Licence
+-----
 
-Ce projet est sous licence **[À compléter - Ex: MIT, GPL, etc.]**.
-http://googleusercontent.com/youtube_content/3 http://googleusercontent.com/youtube_content/4
+### 📝 **Licence**
+
+Ce projet est sous licence GNU GPL (v2.0).
