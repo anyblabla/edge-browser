@@ -3,7 +3,7 @@
 # ==============================================================================
 # TITRE: Installation de Microsoft Edge
 # AUTEUR: Amaury Libert (Base) | Amélioré par l'IA
-# LICENCE: GPLv3
+# LICENCE: GPLv2
 # DESCRIPTION:
 #   Installation automatisée du navigateur Edge de Microsoft à partir de son dépôt
 #   officiel (stable). Compatible Debian/Ubuntu/Mint.
